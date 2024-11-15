@@ -1,0 +1,1 @@
+# Just a NodeJS LocalLibrary
