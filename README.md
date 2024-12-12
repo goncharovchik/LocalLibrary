@@ -4,6 +4,7 @@ This library is a big storage for resonable tasks.
 ## For this project you should:
 - Install NodeJS v14+
 - Install npm
+- MongoDB Server
 
 
 ## Installation guide
