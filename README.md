@@ -2,7 +2,8 @@
 This library is a big storage for resonable tasks.
 
 ## For this project you should:
-- Install NodeJS v14+, npm
+- Install NodeJS v14+
+- Install npm
 
 
 ## Installation guide
